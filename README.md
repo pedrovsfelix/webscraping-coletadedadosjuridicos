@@ -15,7 +15,7 @@ https://consulta-processual-unificada-prd.tjpa.jus.br/#/consulta
 ## Levantamento de Requisitos
 - [x] Deve ser possível acessar o sistema escolhido;
 -  Deve ser possível coletar dados de um processo jurídico:<br>
-[ ] Número do Processo;<br>
+[x] Número do Processo;<br>
 [ ] Classe e/ou assunto;<br>
 [ ] Partes do processo;<br>
 [ ] Lista de movimentações (data + descrição);
