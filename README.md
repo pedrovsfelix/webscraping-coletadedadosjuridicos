@@ -17,7 +17,7 @@ https://consulta-processual-unificada-prd.tjpa.jus.br/#/consulta
 -  Deve ser possível coletar dados de um processo jurídico:<br>
 [x] Número do Processo;<br>
 [x] Classe e/ou assunto;<br>
-[ ] Partes do processo;<br>
+[x] Partes do processo;<br>
 [ ] Lista de movimentações (data + descrição);
 
 *Recomenda-se priorizar soluções que não dependam de browser, sempre que possível
