@@ -13,7 +13,7 @@ https://www.tjrs.jus.br/novo/busca/?return=proc&client=wp_index#
 https://consulta-processual-unificada-prd.tjpa.jus.br/#/consulta
 
 ## Levantamento de Requisitos
-- [ ] Deve ser possível acessar o sistema escolhido;
+- [x] Deve ser possível acessar o sistema escolhido;
 -  Deve ser possível coletar dados de um processo jurídico:<br>
 [ ] Número do Processo;<br>
 [ ] Classe e/ou assunto;<br>
