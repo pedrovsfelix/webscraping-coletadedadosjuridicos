@@ -3,7 +3,19 @@ from scraper import STJScraper
 import json
 
 if __name__ == "__main__":
-  numero = input("Digite o número do processo: ")
+  def solicitar_processo():
+    message = """
+    Informe um identificador de processo do STJ.
+
+    Formatos aceitos:
+    REsp 123456                -> Processo no STJ
+    XXXXXXX-XX.XXXX.X.XX.XXXX  -> Número Único de Processo (NUP)
+    2007/0249585-9             -> Número de registro no STJ
+    200702495859               -> Processo na origem
+    """
+    print(message)
+    return input("Processo: ").strip()
+  numero = solicitar_processo()
   client = HttpClient()
   scraper = STJScraper()
   result = scraper.search_process(numero)
