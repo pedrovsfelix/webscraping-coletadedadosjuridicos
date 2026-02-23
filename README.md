@@ -18,7 +18,7 @@ https://consulta-processual-unificada-prd.tjpa.jus.br/#/consulta
 [x] Número do Processo;<br>
 [x] Classe e/ou assunto;<br>
 [x] Partes do processo;<br>
-[ ] Lista de movimentações (data + descrição);
+[x] Lista de movimentações (data + descrição);
 
 *Recomenda-se priorizar soluções que não dependam de browser, sempre que possível
 
